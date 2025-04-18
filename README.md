@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jeferson Delavusca Gonçalves | Hi there, I'm Jeferson Delavusca Gonçalves
+## 👋 Olá, eu sou o Jeferson Delavusca Gonçalves | Hi there, I'm Jeferson Delavusca Gonçalves
 
 🎓 Pós-graduando em Estatística e Modelagem Quantitativa  
 📊 Economista apaixonado por dados e visualizações  
