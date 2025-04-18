@@ -29,6 +29,7 @@ I have a special interest in time series analysis, data storytelling, applied st
 - ⚙️ Git & GitHub para versionamento e colaboração
 - 💡 Storytelling com dados
 
+
 - 📈 Descriptive and inferential statistics, clustering
 - 📊 Visualization with R (`ggplot2`, `plotly`) and Power BI
 - 🐍 Basic Python (pandas, seaborn, scikit-learn)
@@ -53,6 +54,7 @@ I have a special interest in time series analysis, data storytelling, applied st
 - Machine Learning com R e Python  
 - Métricas de Produto e Product Analytics  
 - Inglês para dados e carreira internacional
+
 
 - Machine Learning with R and Python  
 - Product Analytics and metrics  
