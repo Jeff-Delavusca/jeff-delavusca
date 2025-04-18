@@ -22,20 +22,20 @@ I have a special interest in time series analysis, data storytelling, applied st
 
 ## 🛠️ Habilidades | Skills
 
-📈 Estatística descritiva, inferencial e agrupamentos
-📊 Visualização com R (`ggplot2`, `plotly`) e Power BI
-🐍 Noções básicas de Python (pandas, seaborn, scikit-learn)
-🗄️ SQL para consultas e manipulação de dados
-⚙️ Git & GitHub para versionamento e colaboração
-💡 Storytelling com dados
+📈 Estatística descritiva, inferencial e agrupamentos <br>
+📊 Visualização com R (`ggplot2`, `plotly`) e Power BI <br>
+🐍 Noções básicas de Python (pandas, seaborn, scikit-learn) <br>
+🗄️ SQL para consultas e manipulação de dados <br>
+⚙️ Git & GitHub para versionamento e colaboração <br>
+💡 Storytelling com dados <br><br>
 
+📈 Descriptive and inferential statistics, clustering <br>
+📊 Visualization with R (`ggplot2`, `plotly`) and Power BI <br>
+🐍 Basic Python (pandas, seaborn, scikit-learn) <br>
+🗄️ SQL for querying and data manipulation <br>
+⚙️ Git & GitHub for version control <br>
+💡 Data storytelling and insight generation  
 
-📈 Descriptive and inferential statistics, clustering
-📊 Visualization with R (`ggplot2`, `plotly`) and Power BI
-🐍 Basic Python (pandas, seaborn, scikit-learn)
-🗄️ SQL for querying and data manipulation
-⚙️ Git & GitHub for version control
-💡 Data storytelling and insight generation
 
 ---
 
