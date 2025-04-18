@@ -51,14 +51,14 @@ I have a special interest in time series analysis, data storytelling, applied st
 
 ## 🌱 Atualmente aprendendo | Currently Learning
 
-Machine Learning com R e Python  
-Métricas de Produto e Product Analytics  
-Inglês para dados e carreira internacional
+- Machine Learning com R e Python <br>  
+- Métricas de Produto e Product Analytics <br>  
+- Inglês para dados e carreira internacional <br>
 
 
-Machine Learning with R and Python  
-Product Analytics and metrics  
-English for data and international career
+- Machine Learning with R and Python <br>
+- Product Analytics and metrics <br>
+- English for data and international career <br>
 
 ---
 
