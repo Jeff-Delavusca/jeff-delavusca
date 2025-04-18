@@ -22,20 +22,20 @@ I have a special interest in time series analysis, data storytelling, applied st
 
 ## 🛠️ Habilidades | Skills
 
-- 📈 Estatística descritiva, inferencial e agrupamentos
-- 📊 Visualização com R (`ggplot2`, `plotly`) e Power BI
-- 🐍 Noções básicas de Python (pandas, seaborn, scikit-learn)
-- 🗄️ SQL para consultas e manipulação de dados
-- ⚙️ Git & GitHub para versionamento e colaboração
-- 💡 Storytelling com dados
+📈 Estatística descritiva, inferencial e agrupamentos
+📊 Visualização com R (`ggplot2`, `plotly`) e Power BI
+🐍 Noções básicas de Python (pandas, seaborn, scikit-learn)
+🗄️ SQL para consultas e manipulação de dados
+⚙️ Git & GitHub para versionamento e colaboração
+💡 Storytelling com dados
 
 
-- 📈 Descriptive and inferential statistics, clustering
-- 📊 Visualization with R (`ggplot2`, `plotly`) and Power BI
-- 🐍 Basic Python (pandas, seaborn, scikit-learn)
-- 🗄️ SQL for querying and data manipulation
-- ⚙️ Git & GitHub for version control
-- 💡 Data storytelling and insight generation
+📈 Descriptive and inferential statistics, clustering
+📊 Visualization with R (`ggplot2`, `plotly`) and Power BI
+🐍 Basic Python (pandas, seaborn, scikit-learn)
+🗄️ SQL for querying and data manipulation
+⚙️ Git & GitHub for version control
+💡 Data storytelling and insight generation
 
 ---
 
@@ -51,14 +51,14 @@ I have a special interest in time series analysis, data storytelling, applied st
 
 ## 🌱 Atualmente aprendendo | Currently Learning
 
-- Machine Learning com R e Python  
-- Métricas de Produto e Product Analytics  
-- Inglês para dados e carreira internacional
+Machine Learning com R e Python  
+Métricas de Produto e Product Analytics  
+Inglês para dados e carreira internacional
 
 
-- Machine Learning with R and Python  
-- Product Analytics and metrics  
-- English for data and international career
+Machine Learning with R and Python  
+Product Analytics and metrics  
+English for data and international career
 
 ---
 
