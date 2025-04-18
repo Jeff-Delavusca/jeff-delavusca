@@ -53,7 +53,7 @@ I have a special interest in time series analysis, data storytelling, applied st
 
 - Machine Learning com R e Python <br>  
 - Métricas de Produto e Product Analytics <br>  
-- Inglês para dados e carreira internacional <br>
+- Inglês para dados e carreira internacional <br><br>
 
 
 - Machine Learning with R and Python <br>
